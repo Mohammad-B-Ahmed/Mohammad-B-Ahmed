@@ -6,11 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Learning new tech stuff.
+- 🔭 I’m currently working as backend engineer at Gateway ICT.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
-
-- 👨‍💻 Feel free to check my repos and rate them.
 
 - 📫 How to reach me ** mohammed_burhan@outlook.com **.
 
