@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as backend engineer at Gateway ICT.
+- 🔭 I’m currently working as Fullstack developer.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
