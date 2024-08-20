@@ -48,7 +48,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohammed-burhan-85b5001a2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Muhamme50124429"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/Cypher_M9C7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
