@@ -24,10 +24,9 @@
 <br/>
 
 <p align = "center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-B-Ahmed&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohammad-B-Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-B-Ahmed&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD1"/>
 </p>
+
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=Mohammad-B-Ahmed&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
